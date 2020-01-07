@@ -26,7 +26,7 @@ class Player(models.Model):
 class Enemy(models.Model):
 
     def random_string(self):
-        return str(randint(0,5))
+        return str(randint(0, 5))
 
     name = models.CharField(max_lenght=64)
     location = models.ForeignKey(Room,
@@ -35,7 +35,10 @@ class Enemy(models.Model):
                                  null=True)
     enemy_type = models.CharField(max_length=64)
     hp = models.CharField(default=random_string)
-    defense_strength = models.CharField(default=random_string)
+    offense_strength = models.CharField(default=random_string)
+
+    def create_enemy(self):
+        pass
 
     def strike(self):
         pass
