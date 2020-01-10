@@ -101,4 +101,10 @@ class Enemy(models.Model):
             return f'{player.name}, Victory! You have slayed {enemy.name}!'
 
     def __str__(self):
+<<<<<<< Updated upstream
         return f'{self.name} in {self.location}'
+=======
+        return self.item_name
+
+
+>>>>>>> Stashed changes

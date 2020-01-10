@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b6e505b-8cd1-48c6-acf5-33850b951ef7" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/d81f20b8-99ca-48ff-b1c3-bf6fcc9fee7a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d81f20b8-99ca-48ff-b1c3-bf6fcc9fee7a.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/CS24-BW-MUD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CS24-BW-MUD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d81f20b8-99ca-48ff-b1c3-bf6fcc9fee7a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d81f20b8-99ca-48ff-b1c3-bf6fcc9fee7a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
